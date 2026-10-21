@@ -13,10 +13,10 @@
   "badgeText": "Top Student Cafe Near GEHU",
   "theme": {
     "primary": "#E11D48",
-    "primaryHover": "#BE185D",
-    "primaryLight": "#FDF2F8",
+    "primaryHover": "#BE123C",
+    "primaryLight": "#FFF1F2",
     "primaryShadow": "rgba(219, 39, 119, 0.35)",
-    "accent": "#4F46E5",
+    "accent": "#E11D48",
     "accentGlow": "rgba(219, 39, 119, 0.25)",
     "secondary": "#1E3A8A",
     "gradientBg": "linear-gradient(135deg, #FFF1F2 0%, #FDF2F8 50%, #FEF3C7 100%)",
