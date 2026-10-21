@@ -256,5 +256,6 @@
     "instagramHandle": "onescan360",
     "instagramUrl": "https://www.instagram.com/onescan360",
     "email": "onescan360@gmail.com"
-  }
+  },
+  "logoImg": "./assets/images/scoop-n-brew/scoop-n-brew-logo.png"
 }
