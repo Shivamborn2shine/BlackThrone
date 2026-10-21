@@ -12,11 +12,11 @@
   "ratingCountText": "(850+ reviews)",
   "badgeText": "Top Student Cafe Near GEHU",
   "theme": {
-    "primary": "#DB2777",
+    "primary": "#E11D48",
     "primaryHover": "#BE185D",
     "primaryLight": "#FDF2F8",
     "primaryShadow": "rgba(219, 39, 119, 0.35)",
-    "accent": "#DB2777",
+    "accent": "#4F46E5",
     "accentGlow": "rgba(219, 39, 119, 0.25)",
     "secondary": "#1E3A8A",
     "gradientBg": "linear-gradient(135deg, #FFF1F2 0%, #FDF2F8 50%, #FEF3C7 100%)",
@@ -52,7 +52,7 @@
       "border": "border-orange-200/60"
     }
   ],
-  "heroImage": "./assets/images/scoop-n-brew/scoop-n-brew-dining-arch.png",
+  "heroImage": "./assets/images/scoop-n-brew/scoop-n-brew-header-banner.png",
   "promoBanner": {
     "image": "./assets/images/scoop-n-brew/scoop-n-brew-counter-arches.png",
     "alt": "Scoops, Shakes & Brews — Scoop n Brew Experience"
