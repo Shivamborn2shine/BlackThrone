@@ -1,0 +1,260 @@
+{
+  "id": "blue-door",
+  "name": "Blue Door Café & Bakes",
+  "shortName": "Blue Door",
+  "initials": "BD",
+  "tagline": "Artisanal bakes, specialty coffee & handcrafted desserts in Dehradun",
+  "statusBadge": "Open Now • Artisanal Bakes",
+  "categoryBadge": "🥐 Bakery & Specialty Coffee",
+  "heroHandwriting": "Good Food Brings\nPeople Together ✨",
+  "rating": 4.2,
+  "ratingStars": "★★★★★",
+  "ratingCountText": "(110+ reviews)",
+  "badgeText": "Dehradun's Loved Artisanal Cafe",
+  "theme": {
+    "primary": "#4F46E5",
+    "primaryHover": "#4338CA",
+    "primaryLight": "#EEF2FF",
+    "primaryShadow": "rgba(79, 70, 229, 0.3)",
+    "accent": "#2563EB",
+    "accentGlow": "rgba(37, 99, 235, 0.25)",
+    "secondary": "#1E3A8A",
+    "gradientBg": "linear-gradient(135deg, #E0E7FF 0%, #EDE9FE 50%, #FCE7F3 100%)",
+    "heroGradient": "linear-gradient(135deg, #EEF2FF 0%, #E0E7FF 50%, #C7D2FE 100%)"
+  },
+  "featureTags": [
+    {
+      "icon": "🌱",
+      "text": "Eggless Available",
+      "bg": "bg-emerald-50",
+      "textCol": "text-emerald-700",
+      "border": "border-emerald-200/60"
+    },
+    {
+      "icon": "🍰",
+      "text": "Fresh Daily Bakes",
+      "bg": "bg-amber-50",
+      "textCol": "text-amber-700",
+      "border": "border-amber-200/60"
+    },
+    {
+      "icon": "☕",
+      "text": "Specialty Coffee",
+      "bg": "bg-blue-50",
+      "textCol": "text-blue-700",
+      "border": "border-blue-200/60"
+    },
+    {
+      "icon": "🍝",
+      "text": "Italian Comforts",
+      "bg": "bg-indigo-50",
+      "textCol": "text-indigo-700",
+      "border": "border-indigo-200/60"
+    }
+  ],
+  "heroImage": "./assets/images/blue-door/hero-dish-spread.jpg",
+  "promoBanner": {
+    "image": "./assets/images/blue-door/fresh-bakes-brews-banner.jpg",
+    "alt": "Fresh Bakes & Brews — Blue Door Experience"
+  },
+  "welcomeModal": {
+    "heading": "What did you treat yourself to<br>at Blue Door?",
+    "subheading": "Choose one or more items",
+    "items": [
+      {
+        "key": "COFFEE",
+        "categoryKey": "COFFEE",
+        "label": "Specialty Coffee",
+        "image": "./assets/images/blue-door/coffee-cup.jpg"
+      },
+      {
+        "key": "CROISSANTS",
+        "categoryKey": "BAKES",
+        "label": "Butter Croissants",
+        "image": "./assets/images/blue-door/croissant-butter.jpg"
+      },
+      {
+        "key": "CAKES",
+        "categoryKey": "BAKES",
+        "label": "Artisanal Cakes",
+        "image": "./assets/images/blue-door/orange-cake-slice.jpg"
+      },
+      {
+        "key": "FRIES",
+        "categoryKey": "FOOD",
+        "label": "Crispy Loaded Fries",
+        "image": "./assets/images/blue-door/penne-pasta.jpg"
+      },
+      {
+        "key": "SANDWICHES",
+        "categoryKey": "FOOD",
+        "label": "Sandwiches & Wraps",
+        "image": "./assets/images/blue-door/sandwich-wrap.jpg"
+      },
+      {
+        "key": "DESSERTS",
+        "categoryKey": "BAKES",
+        "label": "Desserts & Tiramisu",
+        "image": "./assets/images/blue-door/tiramisu-cup.jpg"
+      },
+      {
+        "key": "BEVERAGES",
+        "categoryKey": "COFFEE",
+        "label": "Other Beverages",
+        "image": "./assets/images/blue-door/beverage-drink.jpg"
+      },
+      {
+        "key": "ALL",
+        "categoryKey": "ALL",
+        "label": "Not Sure",
+        "isNotSure": true
+      }
+    ]
+  },
+  "specialities": [
+    {
+      "category": "COFFEE",
+      "name": "Cold Brew",
+      "price": "₹160",
+      "gradient": "from-amber-400 to-orange-500",
+      "image": "./assets/images/blue-door/coffee-cup.jpg"
+    },
+    {
+      "category": "BAKES",
+      "name": "Croissant",
+      "price": "₹140",
+      "gradient": "from-yellow-400 to-amber-500",
+      "image": "./assets/images/blue-door/croissant-butter.jpg"
+    },
+    {
+      "category": "BAKES",
+      "name": "Tiramisu",
+      "price": "₹220",
+      "gradient": "from-rose-400 to-pink-500",
+      "image": "./assets/images/blue-door/tiramisu-cup.jpg"
+    },
+    {
+      "category": "FOOD",
+      "name": "Penne Pasta",
+      "price": "₹240",
+      "gradient": "from-emerald-400 to-teal-500",
+      "image": "./assets/images/blue-door/penne-pasta.jpg"
+    },
+    {
+      "category": "FOOD",
+      "name": "Sandwich",
+      "price": "₹190",
+      "gradient": "from-blue-400 to-indigo-500",
+      "image": "./assets/images/blue-door/sandwich-wrap.jpg"
+    },
+    {
+      "category": "BAKES",
+      "name": "Orange Cake",
+      "price": "₹180",
+      "gradient": "from-orange-400 to-amber-600",
+      "image": "./assets/images/blue-door/orange-cake-slice.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "tiramisu",
+      "title": "Classic Italian Tiramisu",
+      "badge": "Signature Dessert",
+      "desc": "Layers of artisanal mascarpone, espresso-soaked savoiardi, and rich cocoa dust.",
+      "image": "./assets/images/blue-door/tiramisu-cup.jpg"
+    },
+    {
+      "id": "croissant",
+      "title": "French Butter Croissant",
+      "badge": "Freshly Baked Daily",
+      "desc": "Flaky, golden-layered puff pastry laminated with pure creamery butter.",
+      "image": "./assets/images/blue-door/croissant-butter.jpg"
+    },
+    {
+      "id": "orange-cake",
+      "title": "Citrus Glazed Orange Cake",
+      "badge": "Baker's Special",
+      "desc": "Moist, slow-baked sponge infused with fresh orange zest and citrus drizzle.",
+      "image": "./assets/images/blue-door/orange-cake-slice.jpg"
+    },
+    {
+      "id": "pasta",
+      "title": "Penne Alfredo with Herbs",
+      "badge": "Italian Comforts",
+      "desc": "Al dente penne in a velvety parmesan cream sauce with toasted garlic bread.",
+      "image": "./assets/images/blue-door/penne-pasta.jpg"
+    },
+    {
+      "id": "sandwich",
+      "title": "Gourmet Focaccia Sandwich",
+      "badge": "Savory Favorites",
+      "desc": "Artisan pressed focaccia with garden greens, herb pesto, and fresh mozzarella.",
+      "image": "./assets/images/blue-door/sandwich-wrap.jpg"
+    },
+    {
+      "id": "beverage",
+      "title": "Refreshing Sparkling Coolers",
+      "badge": "Beverages",
+      "desc": "Handcrafted mocktails, cold brews, and seasonal fruit coolers.",
+      "image": "./assets/images/blue-door/beverage-drink.jpg"
+    },
+    {
+      "id": "spread",
+      "title": "The Full Table Spread",
+      "badge": "Dine In Experience",
+      "desc": "A perfect weekend brunch with our handcrafted breads, bakes, and brews.",
+      "image": "./assets/images/blue-door/hero-dish-spread.jpg"
+    },
+    {
+      "id": "coffee",
+      "title": "Artisanal Latte & Pour-Over",
+      "badge": "Specialty Coffee",
+      "desc": "Single-origin Arabica beans roasted to perfection with silky textured micro-foam.",
+      "image": "./assets/images/blue-door/coffee-cup.jpg"
+    }
+  ],
+  "about": {
+    "title": "Crafted with Passion & Butter",
+    "story": "Blue Door Café & Bakes was born from a simple obsession: creating authentic European bakes and specialty coffee right here in Dehradun. Every loaf of sourdough, every butter croissant, and every dessert is made entirely from scratch daily.",
+    "highlights": [
+      {
+        "icon": "🧈",
+        "title": "Real Dairy Butter & Pure Ingredients",
+        "subtitle": "Never using margarine or artificial additives"
+      },
+      {
+        "icon": "☕",
+        "title": "100% Single-Origin Arabica Beans",
+        "subtitle": "Custom-roasted profiles for nuanced pour-overs & lattes"
+      },
+      {
+        "icon": "🌿",
+        "title": "Pet-Friendly Warm Patio Seating",
+        "subtitle": "A tranquil sanctuary for book lovers & conversations"
+      }
+    ]
+  },
+  "hours": {
+    "display": "Monday - Sunday: 8:00 AM - 11:00 PM",
+    "status": "Open Now • Closes 11:00 PM"
+  },
+  "contact": {
+    "phone": "+918193899998",
+    "phoneDisplay": "+91 81938 99998",
+    "whatsapp": "918193899998",
+    "address": "40/1, Rajpur Rd, opp. Osho, Kishanpur, Dehradun, Uttarakhand 248009",
+    "shortAddress": "Rajpur Road, Kishanpur, Dehradun"
+  },
+  "links": {
+    "googlePlaceId": "ChIJb_f56y3pDzkRLU1eE9tF3pQ",
+    "googleReviewUrl": "https://search.google.com/local/writereview?placeid=ChIJb_f56y3pDzkRLU1eE9tF3pQ",
+    "googleMapsUrl": "https://maps.app.goo.gl/3QW9c",
+    "mapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3442.846569722304!2d78.07727187632665!3d30.35532597476831!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3908e92deb79f76f%3A0x94de45db135e4d2d!2sBlue%20Door%20Caf%C3%A9%20%26%20Bakes!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin",
+    "instagramUrl": "https://www.instagram.com/bluedoorcafe"
+  },
+  "marketing": {
+    "instagramHandle": "onescan360",
+    "instagramUrl": "https://www.instagram.com/onescan360",
+    "email": "onescan360@gmail.com"
+  }
+}

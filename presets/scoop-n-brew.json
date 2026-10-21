@@ -1,0 +1,260 @@
+{
+  "id": "scoop-n-brew",
+  "name": "Scoop n brew",
+  "shortName": "Scoop n Brew",
+  "initials": "SB",
+  "tagline": "Waffles, Mini Pancakes, Hocco Ice Cream, Thick Shakes, Burgers & Cool Vibes near GEHU Gate 1",
+  "statusBadge": "Open Now • Near GEHU Gate 1",
+  "categoryBadge": "🍨 Waffles, Hocco Ice Cream & Shakes",
+  "heroHandwriting": "Good Food Brings\nPeople Together ✨",
+  "rating": 4.9,
+  "ratingStars": "★★★★★",
+  "ratingCountText": "(850+ reviews)",
+  "badgeText": "Top Student Cafe Near GEHU",
+  "theme": {
+    "primary": "#DB2777",
+    "primaryHover": "#BE185D",
+    "primaryLight": "#FDF2F8",
+    "primaryShadow": "rgba(219, 39, 119, 0.35)",
+    "accent": "#DB2777",
+    "accentGlow": "rgba(219, 39, 119, 0.25)",
+    "secondary": "#1E3A8A",
+    "gradientBg": "linear-gradient(135deg, #FFF1F2 0%, #FDF2F8 50%, #FEF3C7 100%)",
+    "heroGradient": "linear-gradient(135deg, #FCE7F3 0%, #FBCFE8 50%, #F472B6 100%)"
+  },
+  "featureTags": [
+    {
+      "icon": "🍨",
+      "text": "Hocco Ice Cream",
+      "bg": "bg-pink-50",
+      "textCol": "text-pink-700",
+      "border": "border-pink-200/60"
+    },
+    {
+      "icon": "🧇",
+      "text": "Waffles & Cones",
+      "bg": "bg-amber-50",
+      "textCol": "text-amber-700",
+      "border": "border-amber-200/60"
+    },
+    {
+      "icon": "🥤",
+      "text": "Shakes & Mojitos",
+      "bg": "bg-rose-50",
+      "textCol": "text-rose-700",
+      "border": "border-rose-200/60"
+    },
+    {
+      "icon": "🍟",
+      "text": "Peri Peri Fries",
+      "bg": "bg-orange-50",
+      "textCol": "text-orange-700",
+      "border": "border-orange-200/60"
+    }
+  ],
+  "heroImage": "./assets/images/scoop-n-brew/scoop-n-brew-dining-arch.png",
+  "promoBanner": {
+    "image": "./assets/images/scoop-n-brew/scoop-n-brew-counter-arches.png",
+    "alt": "Scoops, Shakes & Brews — Scoop n Brew Experience"
+  },
+  "welcomeModal": {
+    "heading": "What did you treat yourself to<br>at Scoop n brew?",
+    "subheading": "Choose one or more items",
+    "items": [
+      {
+        "key": "HOCCO_CONE",
+        "categoryKey": "DESSERTS",
+        "label": "Hocco Nutty Cone (₹45)",
+        "image": "./assets/images/scoop-n-brew/hocco-nutty-cone.png"
+      },
+      {
+        "key": "BOSS_BAR",
+        "categoryKey": "DESSERTS",
+        "label": "Boss Bar (₹60)",
+        "image": "./assets/images/scoop-n-brew/hocco-boss-bar.png"
+      },
+      {
+        "key": "WAFFLES",
+        "categoryKey": "FOOD",
+        "label": "Chocolate Waffle (₹99)",
+        "image": "./assets/images/scoop-n-brew/pixel-cafe-menu-board.png"
+      },
+      {
+        "key": "SANDWICHES",
+        "categoryKey": "FOOD",
+        "label": "Grilled Sandwich (₹69)",
+        "image": "./assets/images/scoop-n-brew/scoop-n-brew-pink-quotes-wall.png"
+      },
+      {
+        "key": "MOJITOS",
+        "categoryKey": "BEVERAGES",
+        "label": "Mint Mojito (₹69)",
+        "image": "./assets/images/scoop-n-brew/iced-mojito-cup.png"
+      },
+      {
+        "key": "COFFEE",
+        "categoryKey": "COFFEE",
+        "label": "Cold Coffee (₹69)",
+        "image": "./assets/images/scoop-n-brew/scoop-n-brew-menu-poster.png"
+      },
+      {
+        "key": "FRIES",
+        "categoryKey": "FOOD",
+        "label": "Loaded Fries (₹79)",
+        "image": "./assets/images/scoop-n-brew/scoop-n-brew-counter-angle.png"
+      },
+      {
+        "key": "ALL",
+        "categoryKey": "ALL",
+        "label": "Not Sure",
+        "isNotSure": true
+      }
+    ]
+  },
+  "specialities": [
+    {
+      "category": "DESSERTS",
+      "name": "Nutty Cone",
+      "price": "₹45",
+      "gradient": "from-pink-500 to-rose-600",
+      "image": "./assets/images/scoop-n-brew/hocco-nutty-cone.png"
+    },
+    {
+      "category": "DESSERTS",
+      "name": "Boss Bar",
+      "price": "₹60",
+      "gradient": "from-amber-500 to-red-600",
+      "image": "./assets/images/scoop-n-brew/hocco-boss-bar.png"
+    },
+    {
+      "category": "FOOD",
+      "name": "Choc Waffle",
+      "price": "₹99",
+      "gradient": "from-amber-500 to-orange-600",
+      "image": "./assets/images/scoop-n-brew/pixel-cafe-menu-board.png"
+    },
+    {
+      "category": "SANDWICHES",
+      "name": "Sandwich",
+      "price": "₹69",
+      "gradient": "from-emerald-500 to-teal-600",
+      "image": "./assets/images/scoop-n-brew/scoop-n-brew-pink-quotes-wall.png"
+    },
+    {
+      "category": "MOJITOS",
+      "name": "Mint Mojito",
+      "price": "₹69",
+      "gradient": "from-teal-400 to-emerald-500",
+      "image": "./assets/images/scoop-n-brew/iced-mojito-cup.png"
+    },
+    {
+      "category": "COFFEE",
+      "name": "Cold Coffee",
+      "price": "₹69",
+      "gradient": "from-amber-600 to-amber-800",
+      "image": "./assets/images/scoop-n-brew/scoop-n-brew-menu-poster.png"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "boss-bar",
+      "title": "Hocco Boss Bar & Cones",
+      "badge": "Signature Scoop",
+      "desc": "Creamy rich Belgian chocolate and nutty cones from Hocco ice creams.",
+      "image": "./assets/images/scoop-n-brew/hocco-boss-bar.png"
+    },
+    {
+      "id": "cafe-interior",
+      "title": "Archway Cozy Seating",
+      "badge": "Vibe & Decor",
+      "desc": "Cozy aesthetic seating with warm pastel arches and student hangout energy.",
+      "image": "./assets/images/scoop-n-brew/scoop-n-brew-dining-arch.png"
+    },
+    {
+      "id": "iced-mojito",
+      "title": "Refreshing Iced Mojito",
+      "badge": "Coolers & Shakes",
+      "desc": "Crisp mint mojitos and cold drinks starting at just ₹69.",
+      "image": "./assets/images/scoop-n-brew/iced-mojito-cup.png"
+    },
+    {
+      "id": "order-counter",
+      "title": "Friendly Order Counter",
+      "badge": "Speedy Service",
+      "desc": "Quick and warm service near GEHU Gate 1, Clement Town.",
+      "image": "./assets/images/scoop-n-brew/scoop-n-brew-counter-arches.png"
+    },
+    {
+      "id": "pink-wall",
+      "title": "Pink Neon Quote Wall",
+      "badge": "Photo Corner",
+      "desc": "The signature pink backdrop perfect for reels and group clicks.",
+      "image": "./assets/images/scoop-n-brew/scoop-n-brew-pink-quotes-wall.png"
+    },
+    {
+      "id": "menu-poster",
+      "title": "Student-Friendly Menu",
+      "badge": "Pocket Friendly",
+      "desc": "Mini pancakes, loaded fries, sandwiches, and shakes at student prices.",
+      "image": "./assets/images/scoop-n-brew/scoop-n-brew-menu-poster.png"
+    },
+    {
+      "id": "full-counter",
+      "title": "Modern Cafe Counter",
+      "badge": "Clean & Hygenic",
+      "desc": "Hygienic setup with Hocco display freezers and fresh waffle stations.",
+      "image": "./assets/images/scoop-n-brew/scoop-n-brew-counter-angle.png"
+    },
+    {
+      "id": "strawberry-cone",
+      "title": "Strawberry Cheesecake Cone",
+      "badge": "Crowd Favorite",
+      "desc": "Crispy waffle cones loaded with creamy strawberry swirl ice cream.",
+      "image": "./assets/images/scoop-n-brew/hocco-strawberry-cheesecake.png"
+    }
+  ],
+  "about": {
+    "title": "Welcome to Scoop n Brew",
+    "story": "Located right opposite Pratap Cricket Turf near GEHU Gate 1 in Clement Town, Scoop n Brew is Dehradun's favorite student hangout for delicious Hocco Ice Creams, warm crispy waffles, refreshing mojitos, thick shakes, and quick bites.",
+    "highlights": [
+      {
+        "icon": "🍨",
+        "title": "Premium Hocco Ice Cream",
+        "subtitle": "Wide variety of rich cones, sticks, and signature boss bars"
+      },
+      {
+        "icon": "🧇",
+        "title": "Crispy Fresh Waffles",
+        "subtitle": "Freshly made waffles & mini pancakes starting at just ₹59"
+      },
+      {
+        "icon": "💸",
+        "title": "Student-Friendly Prices",
+        "subtitle": "Pocket-friendly prices curated for Graphic Era students & foodies"
+      }
+    ]
+  },
+  "hours": {
+    "display": "Monday - Sunday: 11:00 AM - 11:00 PM",
+    "status": "Open Now • Closes 11:00 PM"
+  },
+  "contact": {
+    "phone": "+919876543210",
+    "phoneDisplay": "+91 98765 43210",
+    "whatsapp": "919876543210",
+    "address": "Near GEHU GATE 1, Opposite Pratap Cricket Turf, Clement Town, Dehradun 248002",
+    "shortAddress": "Near GEHU Gate 1, Clement Town, Dehradun"
+  },
+  "links": {
+    "googlePlaceId": "ChIJBVRVOgArCTkRi8U55iIBsHg",
+    "googleReviewUrl": "https://search.google.com/local/writereview?placeid=ChIJBVRVOgArCTkRi8U55iIBsHg",
+    "googleMapsUrl": "https://www.google.com/maps?cid=8696452129855489419",
+    "mapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3297.704247068065!2d77.9985567!3d30.272292299999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39092b003a555405%3A0x78b00122e639c58b!2sScoop%20n%20brew!5e1!3m2!1sen!2sin!4v1792495036661!5m2!1sen!2sin",
+    "instagramUrl": "https://www.instagram.com/scoopnbrew"
+  },
+  "marketing": {
+    "instagramHandle": "onescan360",
+    "instagramUrl": "https://www.instagram.com/onescan360",
+    "email": "onescan360@gmail.com"
+  }
+}

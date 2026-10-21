@@ -1,0 +1,29 @@
+{
+  "name": "blackthrone-engine",
+  "version": "1.0.0",
+  "description": "BlackThrone — Master Replication & Compilation Engine for High-Converting Merchant Experience Landing Pages",
+  "main": "cli.js",
+  "bin": {
+    "blackthrone": "./cli.js"
+  },
+  "scripts": {
+    "list": "node cli.js list",
+    "build:scoop": "node cli.js build scoop-n-brew",
+    "build:bluedoor": "node cli.js build bluedoor",
+    "validate:scoop": "node cli.js validate scoop-n-brew",
+    "validate:bluedoor": "node cli.js validate bluedoor"
+  },
+  "keywords": [
+    "blackthrone",
+    "landing-page-engine",
+    "merchant-replication",
+    "ai-reviews",
+    "google-maps-reviews",
+    "onescan360"
+  ],
+  "author": "Shivamborn2shine & ONESCAN 360",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
