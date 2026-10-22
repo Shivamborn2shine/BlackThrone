@@ -11,7 +11,10 @@
     "build:scoop": "node cli.js build scoop-n-brew",
     "build:bluedoor": "node cli.js build bluedoor",
     "validate:scoop": "node cli.js validate scoop-n-brew",
-    "validate:bluedoor": "node cli.js validate bluedoor"
+    "validate:bluedoor": "node cli.js validate bluedoor",
+    "build:wireless": "node cli.js build wireless",
+    "export:wireless": "node cli.js build wireless --out \"../Wireless\"",
+    "validate:wireless": "node cli.js validate wireless"
   },
   "keywords": [
     "blackthrone",

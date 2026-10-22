@@ -1,0 +1,267 @@
+{
+  "id": "wireless",
+  "name": "WIRELESS",
+  "shortName": "Wireless",
+  "initials": "W",
+  "businessType": "cell_phone_store",
+  "tagline": "Mobiles, Lamination, Repairing, Second Hand Phones & Accessories at Subhash Nagar, Dehradun",
+  "statusBadge": "Open Now • Subhash Nagar, Dehradun",
+  "categoryBadge": "📱 Mobiles, Repairs & Accessories",
+  "categorySubtitle": "Mobiles, Repairs & Accessories",
+  "heroHandwriting": "Your Device\nOur Care",
+  "heroOverlays": {
+    "topLeft": "Your Device Our Care",
+    "topRight": "Mobiles Accessories Repairs & More",
+    "phoneBadge": "9837044095"
+  },
+  "rating": 5.0,
+  "ratingStars": "★★★★★",
+  "ratingCountText": "(3 reviews)",
+  "badgeText": "Trusted Cell Phone Store",
+  "theme": {
+    "primary": "#F59E0B",
+    "primaryHover": "#D97706",
+    "primaryLight": "#FFFBEB",
+    "primaryShadow": "rgba(245, 158, 11, 0.35)",
+    "accent": "#F59E0B",
+    "accentGlow": "rgba(245, 158, 11, 0.25)",
+    "secondary": "#1E293B",
+    "gradientBg": "linear-gradient(135deg, #1E293B 0%, #0F172A 50%, #1E293B 100%)",
+    "heroGradient": "linear-gradient(135deg, #FFFBEB 0%, #FEF3C7 50%, #FBBF24 100%)"
+  },
+  "featureTags": [
+    {
+      "icon": "📱",
+      "text": "Mobile Sales",
+      "bg": "bg-amber-50",
+      "textCol": "text-amber-700",
+      "border": "border-amber-200/60"
+    },
+    {
+      "icon": "🔧",
+      "text": "Phone Repairs",
+      "bg": "bg-blue-50",
+      "textCol": "text-blue-700",
+      "border": "border-blue-200/60"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Lamination & Skins",
+      "bg": "bg-emerald-50",
+      "textCol": "text-emerald-700",
+      "border": "border-emerald-200/60"
+    },
+    {
+      "icon": "🎧",
+      "text": "Accessories",
+      "bg": "bg-purple-50",
+      "textCol": "text-purple-700",
+      "border": "border-purple-200/60"
+    }
+  ],
+  "heroImage": "./assets/images/wireless/wireless-storefront.jpg",
+  "promoBanner": {
+    "image": "./assets/images/wireless/wireless-accessories-display.jpg",
+    "alt": "WIRELESS — Premium Accessories, Skins & Wraps Collection"
+  },
+  "welcomeModal": {
+    "heading": "What service did you get<br>at WIRELESS?",
+    "subheading": "Choose one or more services",
+    "items": [
+      {
+        "key": "REPAIR",
+        "categoryKey": "SERVICE",
+        "label": "Phone Repair",
+        "image": "./assets/images/wireless/wireless-interior-night.jpg"
+      },
+      {
+        "key": "LAMINATION",
+        "categoryKey": "SERVICE",
+        "label": "Lamination / Skin",
+        "image": "./assets/images/wireless/wireless-accessories-display.jpg"
+      },
+      {
+        "key": "SCREEN_GUARD",
+        "categoryKey": "ACCESSORIES",
+        "label": "Screen Protection",
+        "image": "./assets/images/wireless/wireless-accessories-display.jpg"
+      },
+      {
+        "key": "PHONE_CASE",
+        "categoryKey": "ACCESSORIES",
+        "label": "Phone Case",
+        "image": "./assets/images/wireless/wireless-accessories-display.jpg"
+      },
+      {
+        "key": "NEW_PHONE",
+        "categoryKey": "MOBILES",
+        "label": "New Phone Purchase",
+        "image": "./assets/images/wireless/wireless-storefront.jpg"
+      },
+      {
+        "key": "SECOND_HAND",
+        "categoryKey": "MOBILES",
+        "label": "Second Hand Phone",
+        "image": "./assets/images/wireless/wireless-interior-night.jpg"
+      },
+      {
+        "key": "ACCESSORIES",
+        "categoryKey": "ACCESSORIES",
+        "label": "Other Accessories",
+        "image": "./assets/images/wireless/wireless-accessories-display.jpg"
+      },
+      {
+        "key": "ALL",
+        "categoryKey": "ALL",
+        "label": "Not Sure",
+        "isNotSure": true
+      }
+    ]
+  },
+  "specialities": [
+    {
+      "category": "SERVICE",
+      "name": "Phone Repair",
+      "price": "Expert",
+      "gradient": "from-blue-500 to-cyan-600",
+      "image": "./assets/images/wireless/wireless-interior-night.jpg"
+    },
+    {
+      "category": "SERVICE",
+      "name": "Lamination",
+      "price": "Premium",
+      "gradient": "from-amber-500 to-yellow-600",
+      "image": "./assets/images/wireless/wireless-accessories-display.jpg"
+    },
+    {
+      "category": "ACCESSORIES",
+      "name": "Skins & Wraps",
+      "price": "Trendy",
+      "gradient": "from-purple-500 to-pink-600",
+      "image": "./assets/images/wireless/wireless-accessories-display.jpg"
+    },
+    {
+      "category": "MOBILES",
+      "name": "New Phones",
+      "price": "Best Price",
+      "gradient": "from-emerald-500 to-teal-600",
+      "image": "./assets/images/wireless/wireless-storefront.jpg"
+    },
+    {
+      "category": "MOBILES",
+      "name": "2nd Hand",
+      "price": "Verified",
+      "gradient": "from-orange-500 to-red-600",
+      "image": "./assets/images/wireless/wireless-interior-night.jpg"
+    },
+    {
+      "category": "ACCESSORIES",
+      "name": "Cases",
+      "price": "All Brands",
+      "gradient": "from-indigo-500 to-violet-600",
+      "image": "./assets/images/wireless/wireless-accessories-display.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "storefront-day",
+      "title": "WIRELESS Storefront",
+      "badge": "Our Store",
+      "desc": "The iconic WIRELESS signage on Post Office Road, Subhash Nagar — your one-stop mobile solution.",
+      "image": "./assets/images/wireless/wireless-storefront.jpg"
+    },
+    {
+      "id": "accessories-wall",
+      "title": "Premium Accessories Wall",
+      "badge": "Skins & Wraps",
+      "desc": "Huge collection of designer skins, wraps, cases and screen protectors for all phone models.",
+      "image": "./assets/images/wireless/wireless-accessories-display.jpg"
+    },
+    {
+      "id": "interior-view",
+      "title": "Inside WIRELESS",
+      "badge": "Store Interior",
+      "desc": "Well-organized interior with wide range of mobiles, accessories and expert service counters.",
+      "image": "./assets/images/wireless/wireless-interior-night.jpg"
+    },
+    {
+      "id": "grand-opening",
+      "title": "Grand Opening Celebration",
+      "badge": "Inauguration",
+      "desc": "WIRELESS grand opening with festive decorations — a celebration of our commitment to quality service.",
+      "image": "./assets/images/wireless/wireless-grand-opening.jpg"
+    }
+  ],
+  "about": {
+    "title": "Welcome to WIRELESS",
+    "callout": "Your trusted destination for mobiles, second hand phones, accessories, lamination and expert repairs. Genuine products, honest service and the latest accessories — all under one roof at WIRELESS.",
+    "story": "Located on Post Office Road in Subhash Nagar, Dehradun, WIRELESS is your trusted destination for all mobile phone needs. From expert phone repairs and premium lamination to genuine accessories, stylish skins & wraps, new phones, and verified second-hand devices — we offer it all under one roof with a commitment to quality and customer satisfaction.",
+    "highlights": [
+      {
+        "icon": "🔧",
+        "title": "Expert Phone Repairs",
+        "subtitle": "Professional screen replacement, battery repair, software fixes & more for all brands"
+      },
+      {
+        "icon": "🛡️",
+        "title": "Premium Lamination & Skins",
+        "subtitle": "Massive collection of designer skins, wraps & screen protectors with precise application"
+      },
+      {
+        "icon": "💰",
+        "title": "Best Prices Guaranteed",
+        "subtitle": "Competitive pricing on new phones, accessories & reliable second-hand devices"
+      }
+    ]
+  },
+  "hours": {
+    "display": "Monday - Sunday: 10:00 AM - 9:00 PM",
+    "status": "Open Now • Closes 9:00 PM"
+  },
+  "contact": {
+    "phone": "+919837044095",
+    "phoneBadge": "9837044095",
+    "phoneDisplay": "+91 98370 44095",
+    "whatsapp": "919837044095",
+    "address": "Post Office Rd, Subhash Nagar, Dehradun, Bharu Wala Grant, Uttarakhand 248002",
+    "shortAddress": "Post Office Rd, Subhash Nagar, Dehradun"
+  },
+  "links": {
+    "googlePlaceId": "ChIJ43bJ0ZsrCTkR3XUu-YInWbc",
+    "googleReviewUrl": "https://search.google.com/local/writereview?placeid=ChIJ43bJ0ZsrCTkR3XUu-YInWbc",
+    "googleMapsUrl": "https://www.google.com/maps?cid=13211634425347864029",
+    "mapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3443.0!2d77.9959916!3d30.2705399!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39092b9bd1c976e3%3A0xb7592782f92e75dd!2sWIRELESS!5e0!3m2!1sen!2sin!4v1697900000000!5m2!1sen!2sin",
+    "instagramUrl": "https://www.instagram.com/wireless_95"
+  },
+  "marketing": {
+    "instagramHandle": "onescan360",
+    "instagramUrl": "https://www.instagram.com/onescan360",
+    "email": "onescan360@gmail.com"
+  },
+  "reviewCategories": {
+    "chips": [
+      { "label": "Overall Experience ✨", "key": "ALL" },
+      { "label": "Repair Quality 🔧", "key": "REPAIR" },
+      { "label": "Product Range 📱", "key": "PRODUCTS" },
+      { "label": "Staff & Service 🤝", "key": "SERVICE" },
+      { "label": "Value for Money 💸", "key": "VALUE" }
+    ],
+    "reviews": {
+      "ENGLISH": [
+        "Had an amazing experience at WIRELESS! The repair quality was outstanding, the staff was super helpful, and prices were very fair. Highly recommended for any mobile phone needs!",
+        "One of the best cell phone stores in Dehradun! Got my phone screen replaced and it looks brand new. They also have a fantastic collection of skins and accessories. Definitely coming back!",
+        "Loved everything about WIRELESS! Great range of phones and accessories, expert repair service, and the lamination work was flawless. 5 stars all the way!"
+      ],
+      "HINGLISH": [
+        "WIRELESS ka experience bohot hi shaandaar tha! Phone repair ekdum professional tha, staff bohot helpful tha aur prices bhi reasonable. Definitely recommended for all mobile needs!",
+        "Bohot hi mast phone store hai! Screen replacement karwaya aur bilkul new jaisa lag raha hai. Skins aur wraps ka collection bhi zabardast hai. Zaroor visit karo!",
+        "Inka repair work aur service dono lajawab the! Super value for money aur genuine accessories milte hain. 5 stars!"
+      ],
+      "HINDI": [
+        "WIRELESS में बहुत ही शानदार अनुभव रहा! फोन रिपेयर बिल्कुल प्रोफेशनल था और स्टाफ़ का व्यवहार भी बहुत विनम्र था। मोबाइल से जुड़ी किसी भी ज़रूरत के लिए ज़रूर आएं!",
+        "यहाँ की सर्विस और प्रोडक्ट रेंज दोनों ही लाजवाब हैं! स्क्रीन बदलवाई और बिल्कुल नए जैसी लग रही है। 5 स्टार अनुभव!",
+        "फोन रिपेयर, लैमिनेशन और एक्सेसरीज़ के लिए बेहतरीन जगह। कीमत भी उचित और काम भी बढ़िया।"
+      ]
+    }
+  }
+}

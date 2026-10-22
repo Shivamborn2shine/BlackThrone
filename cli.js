@@ -67,6 +67,17 @@ function handleBuild() {
         fs.mkdirSync(outDir, { recursive: true });
     }
 
+    // Copy assets if engine/assets exists
+    const engineAssets = path.join(__dirname, 'engine', 'assets');
+    const outAssets = path.join(outDir, 'assets');
+    if (fs.existsSync(engineAssets)) {
+        try {
+            fs.cpSync(engineAssets, outAssets, { recursive: true });
+        } catch (err) {
+            console.warn('⚠️ Warning: Could not copy assets:', err.message);
+        }
+    }
+
     // Compile
     console.log(`🔨 Compiling "${config.name}"...`);
     const html = compileMerchant(config);
